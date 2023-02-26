@@ -1,13 +1,13 @@
 {
-    "name": "MDisk Unlimited Link Convertor Bot",
+    "name": "Mdisk Post Converter",
     "description": "High Speed ⚡",
     "keywords": [
         "telegram",
         "MDisk",
         "shortner"
     ],
-    "website": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
-    "repository": "https://github.com/Shashwat-Shukla/mdisk-ultra-bot",
+    "website": "https://github.com/ksdevn/mdisk-ultra-bot",
+    "repository": "https://github.com/ksdevn/mdisk-ultra-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
